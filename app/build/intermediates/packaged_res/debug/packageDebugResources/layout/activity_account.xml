@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/blankpage"
+    tools:context=".Account">
+
+    <ImageView
+        android:id="@+id/profileImageView"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="150dp"
+        android:src="@drawable/person_icon" />
+
+    <TextView
+        android:id="@+id/emailTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/profileImageView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="12dp"
+        android:text="mae@gmail.com"
+        android:textSize="25sp"
+        android:textColor="@color/black" />
+
+    <LinearLayout
+        android:id="@+id/bottom_buttons"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true">
+
+        <LinearLayout
+            android:id="@+id/api_button"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:gravity="center"
+            android:padding="10dp"
+            android:layout_margin="5dp">
+
+            <ImageView
+                android:id="@+id/api_image"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/api" />
+
+            <TextView
+                android:id="@+id/api_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="API"
+                android:textSize="18sp"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/account_button"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:gravity="center"
+            android:padding="10dp"
+            android:layout_margin="5dp">
+
+            <ImageView
+                android:id="@+id/account_image"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/username" />
+
+            <TextView
+                android:id="@+id/account_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Account"
+                android:textSize="18sp"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/logout"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:text="Logout"
+        android:background="#F4DFCF"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:layout_marginBottom="150dp"
+        android:textColor="@color/black"
+        android:textSize="20dp"/>
+
+</RelativeLayout>

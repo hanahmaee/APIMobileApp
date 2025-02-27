@@ -1,0 +1,6 @@
+bsu.bsit.finalprojectmad_espinedahanahmae.test.app-core-1.5.0-0 C:\Users\espin\.gradle\caches\transforms-4\0100b144d975bc458a7d5bfb7c3ef7b8\transformed\core-1.5.0\res
+bsu.bsit.finalprojectmad_espinedahanahmae.test.app-annotation-experimental-1.3.0-1 C:\Users\espin\.gradle\caches\transforms-4\76c6a3edee03b39971014f4e33312ccc\transformed\annotation-experimental-1.3.0\res
+bsu.bsit.finalprojectmad_espinedahanahmae.test.app-androidTest-2 C:\Users\espin\AndroidStudioProjects\FinalProjectMAD_EspinedaHanahMae\app\build\generated\res\resValues\androidTest\debug
+bsu.bsit.finalprojectmad_espinedahanahmae.test.app-mergeDebugAndroidTestResources-3 C:\Users\espin\AndroidStudioProjects\FinalProjectMAD_EspinedaHanahMae\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+bsu.bsit.finalprojectmad_espinedahanahmae.test.app-mergeDebugAndroidTestResources-4 C:\Users\espin\AndroidStudioProjects\FinalProjectMAD_EspinedaHanahMae\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+bsu.bsit.finalprojectmad_espinedahanahmae.test.app-debugAndroidTest-5 C:\Users\espin\AndroidStudioProjects\FinalProjectMAD_EspinedaHanahMae\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

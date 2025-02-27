@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="gray">#808080</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">FinalProjectMAD_EspinedaHanahMae</string>
+    <string name="gcm_defaultSenderId" translatable="false">726632907370</string>
+    <string name="google_api_key" translatable="false">AIzaSyAfHzYTu-1Xa0YM-eckzBjtxGV9mAT6cvQ</string>
+    <string name="google_app_id" translatable="false">1:726632907370:android:1e838f1f2238814e5b8013</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAfHzYTu-1Xa0YM-eckzBjtxGV9mAT6cvQ</string>
+    <string name="google_storage_bucket" translatable="false">firebase-423413.appspot.com</string>
+    <string name="project_id" translatable="false">firebase-423413</string>
+    <string name="web_client">726632907370-1kdetelq7j3q08sd5i3gdl27u10v2nlq.apps.googleusercontent.com</string>
+    <style name="Base.Theme.FinalProjectMAD_EspinedaHanahMae" parent="Theme.AppCompat.Light.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.FinalProjectMAD_EspinedaHanahMae" parent="Base.Theme.FinalProjectMAD_EspinedaHanahMae"/>
+    <style name="roundedImageView">
+        <item name="cornerFamily"/>
+        <item name="cornerSize">50%</item>
+    </style>
+</resources>

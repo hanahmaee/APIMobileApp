@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "bsu.bsit.finalprojectmad_espinedahanahmae.app-mergeDebugResources-38:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\espin\\.gradle\\caches\\transforms-4\\0043f4f170cbbcf30d6c1ddf460a3a71\\transformed\\appcompat-1.6.1\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    }
+                }
+            ]
+        }
+    ]
+}
